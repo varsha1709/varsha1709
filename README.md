@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @varsha1709
-- 👀 I’m interested in Frontend , Programming using C,C++ 
-- 🌱 I’m currently learning Javascript and C++
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👀 I’m interested in Web Development, Machine Learning and Programming using C++.
+- 🌱 I’m currently learning Javascript and C++ and Python
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me varsha1709v@gmail.com
 
 <!---
