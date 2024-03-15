@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @varsha1709
+- 👋 Hi, I’m Varsha, pre-final B.Tech student.
 - 👀 I’m interested in Web Development, Machine Learning and Programming using C++.
-- 🌱 I’m currently learning Javascript and C++ and Python
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me varsha1709v@gmail.com
 
