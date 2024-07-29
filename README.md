@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Varsha, pre-final B.Tech student.
+- 👋 Hi, I’m Varsha, final year B.Tech student.
 - 👀 I’m interested in Web Development, Machine Learning and Programming using C++.
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on Projects
